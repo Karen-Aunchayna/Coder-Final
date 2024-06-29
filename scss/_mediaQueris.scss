@@ -46,4 +46,12 @@
         height: 40%;
     
     }
+    .container-fluid {   
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .card{
+        flex-direction: column;
+    }
 }
